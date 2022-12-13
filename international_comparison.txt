@@ -1,0 +1,6 @@
+country           lo          hi         mid         vax       old        diabetes   rate
+SLE               -100        200         50         49        3.7        3.2         26
+ZAF                460        470        465         38          5          7        150
+IND                200        780        490         75          6          9        327
+KEN                 28        330        179         27        2.7        2.4         91
+USA                370        410        390         80         12        9.4        163
